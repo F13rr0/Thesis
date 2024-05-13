@@ -1,2 +1,2 @@
-# Thesis_2024
+# Thesis
 Annexed documents of David Fierro's PHD thesis
